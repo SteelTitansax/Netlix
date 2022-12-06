@@ -1,4 +1,5 @@
-# Films server front end coded in HTML, CSS, JavaScript, React and ThemovieDb API.
+# Films server 
+## Films server front end coded in HTML, CSS, JavaScript, React and ThemovieDb API.
 ## Available Scripts
 
 In the project directory, you can run:
